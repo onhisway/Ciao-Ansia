@@ -1,0 +1,26 @@
+h1{
+  font-size: 80px;
+  color: #FF7EA7;
+  margin-top: 100px;
+}
+
+
+button{
+  margin-top: 50px;
+  margin-left: 600px;
+  background-color: #59D1AD;
+  border-color: #59D1AD;
+  color: #fafafa;
+  font-family: Arial;
+}
+
+div{
+  text-align: center;
+  color: #59D1AD;
+  font-size: 20px;
+}
+
+body{
+  font-family: Arial;
+  background-color: #FFE5ED;
+}
